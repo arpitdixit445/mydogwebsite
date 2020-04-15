@@ -15,8 +15,12 @@ body {
 }
 
 img {
+    align-self: center;
+    padding: 5px;
+    margin : 10px auto 0;
     height: 200px;
-    border-radius: 100%;
+    border : 3px solid white;
+    transform: rotate(90deg);
 }
 
 #container {
